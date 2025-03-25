@@ -156,6 +156,3 @@ void setup() {
 // seriously, it's over
 
 void loop() {}
-
-// for a sample error message, use: for SOME reason, THIS SHIT doesn't WORK
-
